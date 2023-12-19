@@ -1,0 +1,7 @@
+title: @Days
+originalAuthor: Shananas
+assets:
+- name: obj/N_HB040_BTL.mdlx
+  method: copy
+  source:
+  - name: N_HB040_BTL.mdlx
